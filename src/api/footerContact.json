@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "icon": "📞",
+      "title": "Call Us",
+      "details": "+91-9876543210"
+      
+    },
+    {
+      "id": 2,
+      "icon": "💬",
+      "title": "SMS Support",
+      "details":"+91-9876543210"
+      
+    },
+    {
+      "id": 3,
+      "icon": "✉️",
+      "title": "Email Us",
+      "details": "support@example.com"
+      
+    }
+    
+  ]
