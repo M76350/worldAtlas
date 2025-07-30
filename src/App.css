@@ -593,6 +593,14 @@ contact us Page ends here
     grid-template-columns: 1fr;
   }
 }
+.idicountry{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  /* align-items: center; */
+  justify-content: center;
+   
+}
  
 /* //Loader  */
 /* HTML: <div class="loader"></div> */
