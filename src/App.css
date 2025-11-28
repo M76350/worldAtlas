@@ -200,6 +200,7 @@ nav ul li a {
     width: 100%;
     padding: 20px 0;
     background-color: #2a5781d6;
+    z-index: 999 !important;
   }
 
   nav ul li {
