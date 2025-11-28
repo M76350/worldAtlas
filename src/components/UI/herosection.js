@@ -3,7 +3,7 @@ import { FaArrowRight } from "react-icons/fa";
 function Herosection() {
     return (
         <main classname="hero-section main">
-            <div className="container grid grid-two-cols home-element">
+            <div className="container  grid grid-two-cols home-element">
                 <div className="hero-content">
                     <h1 className="heading-xl">explore  the world  ,one country  at a time</h1>
 
